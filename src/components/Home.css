@@ -1,0 +1,36 @@
+/* Colour palette
+Dark purple: rgb(110, 42, 128);
+Pale turquoise: rgb(200,237,243)
+Dark slate grey: rgb(39,56,64)
+Pale lavender: rgb(235,235,235)
+Medium orchid: rgb(177, 98, 197)
+*/
+
+* {
+  font-family: "Raleway", sans-serif;
+}
+
+.jumbotron {
+  background-image: url(./Assets/zack-woolwine-QdaZPtzpA1Q-unsplash-smaller-wide.jpg);
+  background-repeat: no-repeat;
+  height: 70vh;
+}
+.heading {
+  color: rgb(110, 42, 128);
+  font-weight: bold;
+  font-size: 35px;
+}
+.home-text {
+  color: rgb(177, 98, 197);
+  font-size: 25px;
+}
+.btn-see {
+  padding: 7px;
+  background-color: rgb(200, 237, 243);
+  border-radius: 10px;
+  font-weight: bold;
+}
+.btn-see:hover {
+  background-color: white;
+  cursor: pointer;
+}

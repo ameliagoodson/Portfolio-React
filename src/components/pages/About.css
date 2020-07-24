@@ -1,0 +1,39 @@
+/* Colour palette
+Dark purple: rgb(110, 42, 128);
+Pale turquoise: rgb(200,237,243)
+Dark slate grey: rgb(39,56,64)
+Pale lavender: rgb(235,235,235)
+Medium orchid: rgb(177, 98, 197)
+*/
+
+* {
+  font-family: "Raleway", sans-serif;
+}
+body {
+  background-color: rgb(200, 237, 243);
+}
+
+.container {
+  padding-top: 20px;
+}
+.about-intro {
+  font-size: 25px;
+  color: rgb(110, 42, 128);
+  text-align: center;
+}
+.about-subtitle {
+  text-align: center;
+  font-weight: bold;
+}
+.row {
+  background-color: rgb(235, 235, 235);
+  border-radius: 20px;
+  padding-top: 10px;
+  border: solid 2px rgb(177, 98, 197);
+}
+.subheading {
+  font-size: 20px;
+}
+.tools-list {
+  list-style-image: url(./Assets/icon-tick.jpg);
+}
