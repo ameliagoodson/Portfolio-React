@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/ameliagoodson/Portfolio-React/static/css/main.e7db3dee.chunk.css",
-    "main.js": "/ameliagoodson/Portfolio-React/static/js/main.493edbc1.chunk.js",
-    "main.js.map": "/ameliagoodson/Portfolio-React/static/js/main.493edbc1.chunk.js.map",
-    "runtime-main.js": "/ameliagoodson/Portfolio-React/static/js/runtime-main.591dc4cb.js",
-    "runtime-main.js.map": "/ameliagoodson/Portfolio-React/static/js/runtime-main.591dc4cb.js.map",
-    "static/js/2.14823290.chunk.js": "/ameliagoodson/Portfolio-React/static/js/2.14823290.chunk.js",
-    "static/js/2.14823290.chunk.js.map": "/ameliagoodson/Portfolio-React/static/js/2.14823290.chunk.js.map",
-    "index.html": "/ameliagoodson/Portfolio-React/index.html",
-    "precache-manifest.5736757fbc78cf84003cf8230ed46a29.js": "/ameliagoodson/Portfolio-React/precache-manifest.5736757fbc78cf84003cf8230ed46a29.js",
-    "service-worker.js": "/ameliagoodson/Portfolio-React/service-worker.js",
-    "static/css/main.e7db3dee.chunk.css.map": "/ameliagoodson/Portfolio-React/static/css/main.e7db3dee.chunk.css.map",
-    "static/js/2.14823290.chunk.js.LICENSE.txt": "/ameliagoodson/Portfolio-React/static/js/2.14823290.chunk.js.LICENSE.txt",
-    "static/media/port-coddiwomble2-small.png": "/ameliagoodson/Portfolio-React/static/media/port-coddiwomble2-small.4e7d605d.png",
-    "static/media/port-news.PNG": "/ameliagoodson/Portfolio-React/static/media/port-news.f827a5da.PNG",
-    "static/media/port-recipe-search-crop-small.png": "/ameliagoodson/Portfolio-React/static/media/port-recipe-search-crop-small.c36e138f.png",
-    "static/media/Contact.css": "/ameliagoodson/Portfolio-React/static/media/sydneyharbour-blurred-cropped.c53a770e.jpg",
-    "static/media/Home.css": "/ameliagoodson/Portfolio-React/static/media/zack-woolwine-QdaZPtzpA1Q-unsplash-smaller-wide.cb6006fb.jpg"
+    "main.css": "/Portfolio-React/static/css/main.2283d979.chunk.css",
+    "main.js": "/Portfolio-React/static/js/main.493edbc1.chunk.js",
+    "main.js.map": "/Portfolio-React/static/js/main.493edbc1.chunk.js.map",
+    "runtime-main.js": "/Portfolio-React/static/js/runtime-main.736229bc.js",
+    "runtime-main.js.map": "/Portfolio-React/static/js/runtime-main.736229bc.js.map",
+    "static/js/2.14823290.chunk.js": "/Portfolio-React/static/js/2.14823290.chunk.js",
+    "static/js/2.14823290.chunk.js.map": "/Portfolio-React/static/js/2.14823290.chunk.js.map",
+    "index.html": "/Portfolio-React/index.html",
+    "precache-manifest.d438ccee48e46688b4223ee3028e7d15.js": "/Portfolio-React/precache-manifest.d438ccee48e46688b4223ee3028e7d15.js",
+    "service-worker.js": "/Portfolio-React/service-worker.js",
+    "static/css/main.2283d979.chunk.css.map": "/Portfolio-React/static/css/main.2283d979.chunk.css.map",
+    "static/js/2.14823290.chunk.js.LICENSE.txt": "/Portfolio-React/static/js/2.14823290.chunk.js.LICENSE.txt",
+    "static/media/port-coddiwomble2-small.png": "/Portfolio-React/static/media/port-coddiwomble2-small.4e7d605d.png",
+    "static/media/port-news.PNG": "/Portfolio-React/static/media/port-news.f827a5da.PNG",
+    "static/media/port-recipe-search-crop-small.png": "/Portfolio-React/static/media/port-recipe-search-crop-small.c36e138f.png",
+    "static/media/Contact.css": "/Portfolio-React/static/media/sydneyharbour-blurred-cropped.c53a770e.jpg",
+    "static/media/Home.css": "/Portfolio-React/static/media/zack-woolwine-QdaZPtzpA1Q-unsplash-smaller-wide.cb6006fb.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.591dc4cb.js",
+    "static/js/runtime-main.736229bc.js",
     "static/js/2.14823290.chunk.js",
-    "static/css/main.e7db3dee.chunk.css",
+    "static/css/main.2283d979.chunk.css",
     "static/js/main.493edbc1.chunk.js"
   ]
 }
