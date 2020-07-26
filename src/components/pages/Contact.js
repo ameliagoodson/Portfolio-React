@@ -8,19 +8,30 @@ const Contact = () => (
         <header className="contact">Quick Contact</header>
       </div>
       <form className="container">
-        <div className="row">
-          <input type="text" placeholder="Name" id="name"></input>
+        <div className="rowForm">
+          <input
+            type="text"
+            placeholder="Name"
+            id="name"
+            className="inputForm"
+          ></input>
         </div>
-        <div className="row">
-          <input type="email" placeholder="Email address" id="email"></input>
+        <div className="rowForm">
+          <input
+            type="email"
+            placeholder="Email address"
+            id="email"
+            className="inputForm"
+          ></input>
         </div>
-        <div className="row">
+        <div className="rowForm">
           <textarea
             placeholder="Write your message here"
             id="message"
+            className="inputForm"
           ></textarea>
         </div>
-        <div className="row">
+        <div className="rowForm">
           <button className="submit">Submit</button>
         </div>
       </form>
